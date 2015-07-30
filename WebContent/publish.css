@@ -1,0 +1,60 @@
+.edit-title {
+  display: block;
+  max-width: 650px ;
+  width: 100%;
+  height: 70px;
+  padding: 6px 12px;
+
+  margin: auto;
+  font-size: 40px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #eee;
+  background-image: none;
+  border: 1px solid #eee;
+
+  overflow:hidden;
+  resize:none;
+
+
+}
+
+.edit-title:focus {
+  border-color: #eee;
+  outline: 0;
+
+}
+
+.edit-content {
+  display: block;
+  max-width: 650px ;
+  width: 100%;
+  height: 70px;
+  padding: 6px 12px;
+
+  margin: auto;
+  font-size: 20px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #eee;
+  background-image: none;
+  border: 1px solid #eee;
+
+  overflow:hidden;
+  resize:none;
+
+
+}
+
+.edit-content:focus {
+  border-color: #eee;
+  outline: 0;
+
+}
+
+.edit-navbar {
+  float: right;
+  width: 100px;
+ 
+
+}
